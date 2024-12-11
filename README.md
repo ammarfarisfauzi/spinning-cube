@@ -1,1 +1,1 @@
-# spinning-cube
+# spinning cube
